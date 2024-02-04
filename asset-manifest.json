@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FoodFactory-Restuarant-App/static/css/main.d4082ff2.css",
+    "main.js": "/FoodFactory-Restuarant-App/static/js/main.6de7785c.js",
+    "static/js/787.b7a98561.chunk.js": "/FoodFactory-Restuarant-App/static/js/787.b7a98561.chunk.js",
+    "static/media/welcome.png": "/FoodFactory-Restuarant-App/static/media/welcome.723e52d36732126fa795.png",
+    "static/media/ambience.jpg": "/FoodFactory-Restuarant-App/static/media/ambience.8b318e0aa2b30e0a977d.jpg",
+    "static/media/Food1.jpg": "/FoodFactory-Restuarant-App/static/media/Food1.f3072f11102878ef9b75.jpg",
+    "static/media/Instagram.png": "/FoodFactory-Restuarant-App/static/media/Instagram.641a4f155161c6a6ba31.png",
+    "static/media/Food2.jpg": "/FoodFactory-Restuarant-App/static/media/Food2.5e76d1030d726ab5f598.jpg",
+    "static/media/logo4.png": "/FoodFactory-Restuarant-App/static/media/logo4.434ffd7db531fe5800a3.png",
+    "static/media/Food3.jpeg": "/FoodFactory-Restuarant-App/static/media/Food3.5f4451ca789183e8050c.jpeg",
+    "static/media/logos.png": "/FoodFactory-Restuarant-App/static/media/logos.1316ef50d84b10ee5041.png",
+    "static/media/Facebook.png": "/FoodFactory-Restuarant-App/static/media/Facebook.4d9f8a6d92a094dd4e92.png",
+    "static/media/xlogo.png": "/FoodFactory-Restuarant-App/static/media/xlogo.d0a54f09725fc1de7121.png",
+    "static/media/DeliveryImg.png": "/FoodFactory-Restuarant-App/static/media/DeliveryImg.0fbebbdbfc53d67bdd8f.png",
+    "index.html": "/FoodFactory-Restuarant-App/index.html",
+    "main.d4082ff2.css.map": "/FoodFactory-Restuarant-App/static/css/main.d4082ff2.css.map",
+    "main.6de7785c.js.map": "/FoodFactory-Restuarant-App/static/js/main.6de7785c.js.map",
+    "787.b7a98561.chunk.js.map": "/FoodFactory-Restuarant-App/static/js/787.b7a98561.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4082ff2.css",
+    "static/js/main.6de7785c.js"
+  ]
+}
